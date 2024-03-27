@@ -1,8 +1,8 @@
-<h1 align="center">
+<h3 align="center">
  <img src="https://t3.ftcdn.net/jpg/01/60/98/14/360_F_160981431_Sw2es2PV5t5kUqITmrA1VomMdvdd7g3P.jpg" alt="welcome" width=100%/>
-  
-  
-</h1>
+</h3>
+<hr>
+<br>
 <h1 align="left">Hi, I'm Jose. Welcome to my Github 👋</h1>
 <h3 align="left">Passionate and Versatile Software Developer from Portugal</h3>
 
