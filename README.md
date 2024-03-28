@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 Reach me at (z.gomes.e@gmail.com)[https://mail.google.com/mail/?view=cm&fs=1&to=z.gomes.e@gmail.com&su=&body=&bcc=z.gomes.e@gmail.com]
+- 📫 Reach me at [z.gomes.e@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=z.gomes.e@gmail.com&su=&body=&bcc=z.gomes.e@gmail.com)
 
 - ⚡ Let's get to **work**!
 
