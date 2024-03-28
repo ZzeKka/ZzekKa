@@ -1,6 +1,4 @@
 <h1 align="left">Hi, I'm José. Welcome to my Github</h1>
-<hr>
-
 <br>
 
 <h2 align="left">More About Me</h2>
