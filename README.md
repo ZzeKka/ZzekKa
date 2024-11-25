@@ -14,8 +14,6 @@
 
 - ⚡ Let's get to **work**!
 
-<img align="center" alt="Snake" width="400" src="![snake](https://github.com/user-attachments/assets/49ca0407-94ae-4646-ab11-08f2c683521b)">
-
 
 <h2 align="left">Technologies:</h2>
 <h3 align="left">Programming Languages:</h3>
